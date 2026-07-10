@@ -1,28 +1,101 @@
-HK Bus ETA is a fast, mobile-friendly Progressive Web App (PWA) designed for Hong Kong commuters. It provides real-time bus arrival information from KMB, Citybus, and Green Minibus (GMB) services through official open data APIs.
+🚍 HK Bus ETA
 
-Built with a responsive Bootstrap 5 interface, the application works on desktop, iPhone, and Android devices without requiring installation from an app store. Users can search for routes, browse stops, and view live ETA information with a clean and intuitive experience.
+A modern, mobile-friendly Progressive Web App (PWA) for real-time Hong Kong public transport arrival information.
 
-Key Features
-🚍 Real-time ETA for KMB, Citybus, and Green Minibus
-⭐ Favourite routes and stops with automatic ETA refresh
-📍 GPS-based nearby stop discovery
-📏 Distance calculation from current location
-🔄 Configurable auto-refresh interval (15s, 30s, 60s, 120s)
-🌙 Light and Dark Mode support
-🎨 Multiple colour themes
-🌏 Traditional Chinese and English interface
-📲 PWA support for home screen installation
-💾 Import and export favourites and settings
-🔀 Manual drag-and-drop sorting of favourite routes
-📍 Nearby-stop-first sorting mode
-🚌 Auto ETA display when selecting a stop
-🧭 Automatic location refresh and reverse geocoding support
-Privacy-Friendly
+🌐 Live Demo: Try HK Bus ETA
 
-The application stores preferences and favourites locally on the user's device using browser storage. No personal information is collected, transmitted, or stored on any server.
+HK Bus ETA provides fast access to real-time Estimated Time of Arrival (ETA) information for KMB, Citybus and Green Minibus services using official open-data APIs. The application is optimized for both desktop and mobile browsers and can be installed as a PWA on iPhone and Android devices for an app-like experience.
 
-Open Source
+✨ Features
+🚍 Real-Time Transport Information
+KMB ETA
+Citybus ETA
+Green Minibus ETA
+Multiple upcoming arrival times
+Automatic ETA refresh
+⭐ Favourite Routes
+Save favourite routes and stops
+Drag & drop manual sorting
+Nearby-stop-first sorting
+Real-time ETA displayed directly on favourite cards
+Import and export favourites
+📍 Location-Based Features
+GPS nearby stop discovery
+Automatic location refresh
+Nearby stop distance calculation
+Sort favourites by proximity
+Auto-update current location on startup
+🔎 Smart Route & Stop Search
+Route search with stop listing
+Nearby stops displayed first
+All route stops available for browsing
+Auto-load ETA when a stop is selected
+One-tap access from nearby stops to ETA information
+🎨 Personalisation
+Traditional Chinese / English
+Light Mode / Dark Mode
+Multiple colour themes
+Configurable refresh interval:
+15 seconds
+30 seconds
+60 seconds (default)
+120 seconds
+📱 Progressive Web App (PWA)
+Install on iPhone and Android
+Home screen icon support
+Offline-ready resources
+Responsive Bootstrap 5 interface
+No app store required
+🔒 Privacy
 
-HK Bus ETA is an open-source project created for Hong Kong public transport users who want a lightweight, fast, and customizable ETA experience.
+HK Bus ETA is designed with privacy in mind.
+
+No user account required
+No personal information collected
+Favourites and settings stored locally in browser storage
+Import / Export available for backup and restore
+🛠️ Technologies
+HTML5
+JavaScript (Vanilla JS)
+Bootstrap 5
+Progressive Web App (PWA)
+Browser Geolocation API
+Official Hong Kong Transport Open Data APIs
+🚀 Getting Started
+
+Visit the live website:
+
+👉 HK Bus ETA
+
+Or install it as a PWA:
+
+Open the website on your mobile device
+Tap Add to Home Screen
+Launch HK Bus ETA like a native application
+📸 Highlights
+
+✅ Real-time ETA
+
+✅ Nearby Stops
+
+✅ Favourite Routes
+
+✅ GPS Distance
+
+✅ Import & Export
+
+✅ Drag & Drop Sorting
+
+✅ Dark Mode
+
+✅ Multi-language Support
+
+✅ PWA Installation
+
+License
+
+This project is open source and provided for learning and personal use.
 
 Copyright © 2026 GCW. All rights reserved.
+
+Live application: https://gcw901.github.io/HKBUS/
